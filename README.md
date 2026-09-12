@@ -61,7 +61,3 @@ gcc -Wall -Wextra -Werror -c ft_putchar.c
 - Only allowed function: `write`
 - No use of `printf` or any `stdio` output functions
 - Norm-compliant (42 School coding style)
-
-## 👤 Author
-
-Your Name — 42 student
